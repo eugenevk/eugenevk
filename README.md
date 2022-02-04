@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @eugenevk (Eugene)
-- 👀 I’m interested in web development with VueJS, Algolia and Firestore.
+- 👀 I’m interested in web development with VueJS, Quasar, Algolia and Firestore.
 - 🌱 I’m currently learning all of the above and building my own presales management system.
 - 📫 eugenevk@outlook.com
 
